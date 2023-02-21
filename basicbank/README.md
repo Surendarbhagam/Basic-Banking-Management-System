@@ -1,2 +1,2 @@
 # Banking-Management-System
-# developed by Rahul prajapti
+# developed by B SURENDAR
